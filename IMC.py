@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 # Cálculo de IMC
 
 def calcular_imc(peso, altura):
