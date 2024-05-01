@@ -2,6 +2,7 @@ import numpy
 import math
 import random
 
+print("Python")
 random.random() # Float aleatório entre 0 e 1.
 random.uniform(inicio, fim) # Float aleatório entre início e fim.
 random.randint(inicio, fim) # Inteiro aleatório entre início e fim.
