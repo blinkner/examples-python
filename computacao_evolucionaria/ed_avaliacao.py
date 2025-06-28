@@ -4,7 +4,7 @@
 Implementação do Algoritmo de Evolução Diferencial
 
 @author: Prof. Lucas S. Oliveira
-@modificado por: Gabriel Marlon Viana
+@modificado por: blinkner
 
 Data: 11/09/2024
 

@@ -1,5 +1,5 @@
 # Simplex Search Algorithm - SSA Multivariável
-# Desenvolvido por Gabriel Marlon
+# Desenvolvido por: blinkner
 
 import numpy as np
 import matplotlib.pyplot as plt

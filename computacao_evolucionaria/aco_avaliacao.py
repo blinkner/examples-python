@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @author: lqsoliveira
-@modificado por: Gabriel Marlon Viana
+@modificado por: blinkner
 
 Implementação do algoritmo baseado em colônia de formigas.
 """
@@ -156,21 +156,3 @@ plt.grid()
 plt.ylabel('f_best')
 plt.xlabel('geração')
 plt.show()
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
