@@ -1,5 +1,4 @@
-# -*- coding: utf-8 -*-
-# Escreva um programa que ordene uma lista numérica com três elementos.
+# Ordenar lista numérica
 
 lista = [200, 3, 36]
 

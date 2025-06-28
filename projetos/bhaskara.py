@@ -1,5 +1,5 @@
-# -*- coding: utf-8 -*-
-# Escreva um programa que resolva uma equação de segundo grau.
+# Equação de bhaskara
+# Escrito por: blinkner
 import math
 
 a = float(input("Entre com o coeficiente A: "))

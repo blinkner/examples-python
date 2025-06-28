@@ -1,6 +1,5 @@
-# -*- coding: utf-8 -*-
-# Escreva um programa que receba dois números e um sinal, e faça a operação
-# matemática definida pelo sinal.
+# Operações matemáticas
+# Escrito por: blinkner
 
 num1 = int(input("Entre com o primeiro número: "))
 num2 = int(input("Entre com o segundo número: "))

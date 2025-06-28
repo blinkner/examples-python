@@ -1,4 +1,5 @@
 # Cálculo de IMC
+# Escrito por: blinkner
 
 def calcular_imc(peso, altura):
     return peso / (altura ** 2)

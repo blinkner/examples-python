@@ -1,4 +1,5 @@
-# -*- coding: utf-8 -*-
+# Referências ABNT para website
+# Escrito por: blinkner
 
 # Coleta os dados
 autor = input("Autor: ")
