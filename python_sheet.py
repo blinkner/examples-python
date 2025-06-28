@@ -11,8 +11,5 @@ range(inicio, fim, passo)
 list()
 input("Entre com um valor: ") # Entrada de dados
 
-
-
-def funcao(): # Função
-    return 0
-
+def soma(x, y): # Função
+    return x+y
