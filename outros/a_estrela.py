@@ -3,7 +3,6 @@ import heapq
 import math
 import matplotlib.pyplot as plt
 
-
 def heuristica(a, b):
     dx = abs(a[0] - b[0])
     dy = abs(a[1] - b[1])
